@@ -1,4 +1,4 @@
-# DataCleaning 🧹📊
+# Data Cleaning 🧹📊
 
 ## Project Overview
 
